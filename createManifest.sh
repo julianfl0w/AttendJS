@@ -1,0 +1,1 @@
+tree -J names > manifest.json
