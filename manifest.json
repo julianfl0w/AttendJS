@@ -1,0 +1,42 @@
+[
+  {"type":"directory","name":"names","contents":[
+    {"type":"directory","name":"Chase Farmer","contents":[
+      {"type":"file","name":"1614101887710.jpeg"},
+      {"type":"file","name":"chase1.jpg"},
+      {"type":"file","name":"chase2.jpg"}
+  ]},
+    {"type":"directory","name":"elliott ditman","contents":[
+      {"type":"file","name":"1695956247439.jpeg"},
+      {"type":"file","name":"Code & Coffee RWC-29.jpg"},
+      {"type":"file","name":"Screenshot_2024-02-23_23-32-06.png"}
+  ]},
+    {"type":"directory","name":"Joshua Adams","contents":[
+      {"type":"file","name":"1686576965478.jpeg"},
+      {"type":"file","name":"cac-chat-overhead.jpg"},
+      {"type":"file","name":"cac-drum-glasses.jpg"}
+  ]},
+    {"type":"directory","name":"Julian Loiacono","contents":[
+      {"type":"file","name":"20231012_093024.jpg"},
+      {"type":"file","name":"20240218_192341.jpg"},
+      {"type":"file","name":"julian1.jpg"},
+      {"type":"file","name":"julian2.jpg"}
+  ]},
+    {"type":"directory","name":"Micaela Cunha","contents":[
+      {"type":"file","name":"1669909648057.jpeg"},
+      {"type":"file","name":"cac-intro-micaelawindow.jpg"},
+      {"type":"file","name":"Code & Coffee RWC-23.jpg"}
+  ]},
+    {"type":"directory","name":"Tyrell Thomas","contents":[
+      {"type":"file","name":"1698775238079.jpeg"},
+      {"type":"file","name":"tyrell1.jpg"}
+  ]},
+    {"type":"directory","name":"Valentine Okundaye","contents":[
+      {"type":"file","name":"1706190733894.jpeg"},
+      {"type":"file","name":"kombucha-1.jpg"},
+      {"type":"file","name":"PXL_20240113_203136460.MP~2.jpg"},
+      {"type":"file","name":"val1.jpg"}
+  ]}
+  ]}
+,
+  {"type":"report","directories":7,"files":22}
+]
